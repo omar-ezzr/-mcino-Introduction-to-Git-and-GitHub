@@ -26,3 +26,4 @@ This project is part of the final assignment for the Introduction to Git and Git
 - CONTRIBUTING.md
 - simple-interest.sh
 This line fixes a small documentation typo.
+This branch is used for the bug-fix-revert pull request.
