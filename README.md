@@ -25,3 +25,4 @@ This project is part of the final assignment for the Introduction to Git and Git
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - simple-interest.sh
+This line fixes a small documentation typo.
