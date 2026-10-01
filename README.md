@@ -36,6 +36,5 @@ Run it:
 ./simple-interest.sh
 ```
 
-## Author
+## Omar
 
-Replace this line with your name before submitting.
