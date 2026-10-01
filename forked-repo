@@ -1,0 +1,5 @@
+DO NOT SUBMIT THIS PLACEHOLDER.
+
+Generate the real output with:
+
+curl https://api.github.com/repos/YOUR_GITHUB_USERNAME/mcino-Introduction-to-Git-and-GitHub | tee forked-repo

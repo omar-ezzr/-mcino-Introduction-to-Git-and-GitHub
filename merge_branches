@@ -1,0 +1,11 @@
+DO NOT SUBMIT THIS PLACEHOLDER.
+
+Generate the real output after completing the branch exercise:
+
+{
+  echo '$ git checkout main'
+  git checkout main
+
+  echo '$ git merge bug-fix-typo'
+  git merge bug-fix-typo
+} 2>&1 | tee merge_branches

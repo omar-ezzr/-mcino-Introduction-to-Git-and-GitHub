@@ -1,0 +1,5 @@
+DO NOT SUBMIT THIS PLACEHOLDER.
+
+Generate the real branch output with:
+
+git branch -avv | tee github-branches

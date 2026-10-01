@@ -1,0 +1,7 @@
+DO NOT SUBMIT THIS PLACEHOLDER.
+
+Generate the real pull request API output with your actual pull request number.
+
+Example:
+
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/PULL_REQUEST_NUMBER | tee bug-fix-revert
